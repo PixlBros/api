@@ -1,0 +1,60 @@
+{
+  "name": "PixlBro #33",
+  "description": "PixlBros is a collection of 8,205 adorable and unique BROS NFTs available on the Ethereum blockchain. One BRO token is your ticket to future drops, events, and much much more. Join the brotherhood today at www.pixlbros.com.",
+  "external_url": "https://pixlbros.com/images.html?id=33",
+  "image": "https://ipfs.io/ipfs/QmPco66MnC9wzaAGpJrJfhspWJ1wQ1hHQQfgkJQT6JqrhW/33.png",
+  "code": "01000F050E0309030000",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Violet Fuck You"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Left Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tooth gap"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Iroquois Cut Red"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue V"
+    },
+    {
+      "trait_type": "Accessoires",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Strength",
+      "max_value": 10,
+      "value": 4
+    },
+    {
+      "trait_type": "Spirit",
+      "max_value": 10,
+      "value": 5
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Generation",
+      "value": 1
+    }
+  ]
+}
